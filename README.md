@@ -13,6 +13,6 @@ Final Mega-Thread
 
 Pytthon 3.8+
 ### ```installed via pip```
-tcod 11.13+
+tcod 11.14+
 
 numpy 1.18+
